@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\Exercícios C#\bin\Debug\net8.0\Exercícios C#.exe
+C:\Users\fic\Desktop\Exercícios C#\bin\Debug\net8.0\Exercícios C#.deps.json
+C:\Users\fic\Desktop\Exercícios C#\bin\Debug\net8.0\Exercícios C#.runtimeconfig.json
+C:\Users\fic\Desktop\Exercícios C#\bin\Debug\net8.0\Exercícios C#.dll
+C:\Users\fic\Desktop\Exercícios C#\bin\Debug\net8.0\Exercícios C#.pdb
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.AssemblyInfo.cs
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.dll
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\refint\Exercícios C#.dll
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.pdb
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\Exercícios C#.genruntimeconfig.cache
+C:\Users\fic\Desktop\Exercícios C#\obj\Debug\net8.0\ref\Exercícios C#.dll
