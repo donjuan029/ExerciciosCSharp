@@ -152,6 +152,213 @@ class Program
         //         break;
         // }
 
-        Console.WriteLine("Olá");
+        
+        //Nível Fácil 1
+
+        // Console.WriteLine("Digite a temperatura: ");
+        // int temperatura = int.Parse(Console.ReadLine());
+
+        // if(temperatura >= 30)
+        // {
+        //     Console.WriteLine("Quente");
+        // }
+        // else if(temperatura >= 15)
+        // {
+        //     Console.WriteLine("Agradável");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Frio");
+        // }
+
+        //Nível Fácil 2
+
+        // Console.WriteLine("Digite um número: ");
+        // int num = int.Parse(Console.ReadLine());
+
+        // if(num > 100)
+        // {
+        //     Console.WriteLine("Número maior que 100");
+        // }
+        // else if(num == 100)
+        // {
+        //     Console.WriteLine("Número é 100");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Número é menor que 100");
+        // }
+
+        //Nível Fácil 3
+
+        // Console.WriteLine("Digite a senha: ");
+        // int senha = int.Parse(Console.ReadLine());
+
+        // if(senha == 123)
+        // {
+        //     Console.WriteLine("Senha válida");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Senha inváida");
+        // }
+
+        //Nível Fácil 4
+
+        // Console.WriteLine("Digite um número: ");
+        // int num = int.Parse(Console.ReadLine());
+
+        // if(num < 0)
+        // {
+        //     Console.WriteLine("Número negativo");
+        // }
+        // else if (num == 0)
+        // {
+        //     Console.WriteLine("Número neutro 0 ");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Número positivo");
+        // }
+
+        //Nível Fácil 5
+
+        // Console.WriteLine("Digite sua idade: ");
+        // int idade = int.Parse(Console.ReadLine());
+
+        // Console.WriteLine(idade >= 16 ? "Cadastro permitido" : "Cadastro não permitido");
+
+        //Nível Fácil 6
+
+        // Console.WriteLine("Digite um número (1, 2 ou 3)");
+        // int opcao = int.Parse(Console.ReadLine());
+
+        // switch(opcao)
+        // {
+        //     case 1:
+        //         Console.WriteLine("Você escolheu a opção 1 Manhã");
+        //         break;
+        //     case 2:
+        //         Console.WriteLine("Você escolheu a opção 2 Tarde");
+        //         break;
+        //     case 3:
+        //         Console.WriteLine("Você escolheu a opção 3 Noite");
+        //         break;
+        //     default:
+        //         Console.WriteLine("Opção inválida");
+        //         break;
+        // }
+
+        //Nível Fácil 7
+
+        // Console.WriteLine("Digite um número (1, 2 ou 3)");
+        // int opcao = int.Parse(Console.ReadLine());
+
+        // switch(opcao)
+        // {
+        //     case 1:
+        //         Console.WriteLine("Você escolheu a opção 1 Novo Jogo");
+        //         break;
+        //     case 2:
+        //         Console.WriteLine("Você escolheu a opção 2 Carregar Jogo");
+        //         break;
+        //     case 3:
+        //         Console.WriteLine("Você escolheu a opção 3 Sair");
+        //         break;
+        // }
+
+        //Nível Médio 1
+
+        // Console.WriteLine("Digite sua idade: ");
+        // int idade = int.Parse(Console.ReadLine());
+
+        // if(idade >= 18)
+        // {
+        //     Console.WriteLine("Adulto");
+        // }
+        // else if (idade >=13)
+        // {
+        //     Console.WriteLine("Adolescente");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Criança");
+        // }
+
+        //Nível Médio 2
+
+        // Console.WriteLine("Digite o primeiro número: ");
+        // int n1 = int.Parse(Console.ReadLine());
+
+        // Console.WriteLine("Digite o segundo número: ");
+        // int n2 = int.Parse(Console.ReadLine());
+
+        // Console.WriteLine(n1 > n2 ? "Primeiro número maior que o segundo" : "Segundo número maior que o primeiro");
+
+        //Nível Médio 3
+
+        // Console.WriteLine("Digite sua idade: ");
+        // int idade = int.Parse(Console.ReadLine());
+
+        // Console.WriteLine("Possui ingresso? Sim ou Não: ");
+        // string ingresso = Console.ReadLine().ToUpper();
+
+        // if(idade >= 18 || ingresso == "SIM")
+        // {
+        //     Console.WriteLine("Acesso permitido");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Acesso negado");
+        // }
+
+        //Nível Médio 4
+
+        // Console.WriteLine("Digite um número: ");
+        // int num = int.Parse(Console.ReadLine());
+
+        // if(num >= 0 && num <=10)
+        // {
+        //     Console.WriteLine("Valor válido");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Valor inválido");
+        // }
+
+        //Nível Médio 5
+
+        // Console.WriteLine("Digite sua idade: ");
+        // int idade = int.Parse(Console.ReadLine());
+
+        // if(idade < 18)
+        // {
+        //     Console.WriteLine("Que pena sem desconto");
+        // }
+        // else if(idade <60)
+        // {
+        //     Console.WriteLine("Parabéns ganhou 10% de desconto");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Parabéns ganhou 20% de desconto");
+        // }
+
+        //Nível Médio 6
+
+        // Console.WriteLine("Digite o valor da compra: ");
+        // float valorCompra = float.Parse(Console.ReadLine());
+
+        // Console.WriteLine(valorCompra >= 200 ? valorCompra*0.85 : valorCompra*0.95);
+
+        //Nível Médio 7
+
+        Console.WriteLine("Digite o primeiro número: ");
+        int n1 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite o segundo número: ");
+        int n2 = int.Parse(Console.ReadLine());
+        
+        
     }
 }
