@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Exercícios C#\Repetição\bin\Debug\net8.0\Repetição.exe
+C:\Users\fic\Desktop\Exercícios C#\Repetição\bin\Debug\net8.0\Repetição.deps.json
+C:\Users\fic\Desktop\Exercícios C#\Repetição\bin\Debug\net8.0\Repetição.runtimeconfig.json
+C:\Users\fic\Desktop\Exercícios C#\Repetição\bin\Debug\net8.0\Repetição.dll
+C:\Users\fic\Desktop\Exercícios C#\Repetição\bin\Debug\net8.0\Repetição.pdb
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.AssemblyInfo.cs
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.sourcelink.json
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.dll
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\refint\Repetição.dll
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.pdb
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\Repetição.genruntimeconfig.cache
+C:\Users\fic\Desktop\Exercícios C#\Repetição\obj\Debug\net8.0\ref\Repetição.dll
