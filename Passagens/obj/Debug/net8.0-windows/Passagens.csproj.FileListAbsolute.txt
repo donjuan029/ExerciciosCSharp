@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.AssemblyInfo.cs
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.sourcelink.json
+C:\Users\fic\Desktop\Exercícios C#\Passagens\bin\Debug\net8.0-windows\Passagens.exe
+C:\Users\fic\Desktop\Exercícios C#\Passagens\bin\Debug\net8.0-windows\Passagens.deps.json
+C:\Users\fic\Desktop\Exercícios C#\Passagens\bin\Debug\net8.0-windows\Passagens.runtimeconfig.json
+C:\Users\fic\Desktop\Exercícios C#\Passagens\bin\Debug\net8.0-windows\Passagens.dll
+C:\Users\fic\Desktop\Exercícios C#\Passagens\bin\Debug\net8.0-windows\Passagens.pdb
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.dll
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\refint\Passagens.dll
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.pdb
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\Passagens.genruntimeconfig.cache
+C:\Users\fic\Desktop\Exercícios C#\Passagens\obj\Debug\net8.0-windows\ref\Passagens.dll
